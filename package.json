@@ -1,0 +1,29 @@
+{
+  "name": "simple-mutex",
+  "version": "1.0.0",
+  "description": "Nodejs locking implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisKuiper/Simple-Mutex.git"
+  },
+  "keywords": [
+    "Mutex",
+    "Lock",
+    "implementation",
+    "local",
+    "vars",
+    "variables",
+    "expire",
+    "expiration"
+  ],
+  "author": "Kris Kuiper <npmjs.com@sfire.nl> (https://kriskuiper.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KrisKuiper/Simple-Mutex/issues"
+  },
+  "homepage": "https://github.com/KrisKuiper/Simple-Mutex#readme"
+}
