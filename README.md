@@ -9,9 +9,9 @@ This will give you a single threaded nature to your advantage.
 $ npm install simple-mutex
 ```
 ##### Require
-To use Simpel-Mutext you can simply require the module as follows:
+To use Simpel-Mutex you can simply require the module as follows:
 ```javascript
-var Lock = require('simple-mutext');
+var Lock = require('simple-mutex');
 ```
 
 ## Using a lock
